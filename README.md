@@ -1,18 +1,23 @@
-# Employee-Overview-Tableau
+
 Employee-Overview-Tableau Project Summary
+
 This project creates an interactive Tableau dashboard for employee workforce analysis. Here's what it covers:
 
 Objective
+
 Analyze employee data to understand workforce distribution, attrition rates, salary patterns, gender diversity, and experience levels across departments and job roles.
 
 Key Data Points
+
 Employee demographics, departments, job roles, gender, marital status, income, experience, and attrition status
+
 Main Business Questions
 Which department has the most employees?
 Which job roles have the highest attrition?
 How is the workforce distributed by gender and marital status?
 What are salary patterns across departments?
 Which departments have the most experienced employees?
+
 Key Insights
 R&D is the largest department, followed by Sales; HR is the smallest
 Laboratory Technicians and Sales Executives have the highest attrition rates
