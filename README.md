@@ -1,57 +1,30 @@
 # Employee-Overview-Tableau
-The objective of this project is to analyze employee workforce data to understand workforce distribution, employee attrition, salary patterns, gender diversity, and employee experience across different departments and job roles. The dashboard enables HR professionals and business leaders to make data-driven decisions for improving employee retention and workforce planning.
+Employee-Overview-Tableau Project Summary
+This project creates an interactive Tableau dashboard for employee workforce analysis. Here's what it covers:
 
-Data Used: 
-Employee demographic data
-Department information
-Job roles
-Gender
-Marital status
-Monthly income
-Employee experience
-Attrition status
+Objective
+Analyze employee data to understand workforce distribution, attrition rates, salary patterns, gender diversity, and experience levels across departments and job roles.
 
-Business Questions
-Which department has the highest number of employees?
-Which job roles experience the highest employee attrition?
-How is the workforce distributed by gender?
-What is the average monthly income across departments?
+Key Data Points
+Employee demographics, departments, job roles, gender, marital status, income, experience, and attrition status
+Main Business Questions
+Which department has the most employees?
+Which job roles have the highest attrition?
+How is the workforce distributed by gender and marital status?
+What are salary patterns across departments?
 Which departments have the most experienced employees?
-What is the marital status distribution of employees?
+Key Insights
+R&D is the largest department, followed by Sales; HR is the smallest
+Laboratory Technicians and Sales Executives have the highest attrition rates
+Senior leadership roles (Managers, Research Directors) show low attrition
+Gender diversity and compensation variations exist across departments
+Employee experience levels vary by department, indicating training/succession planning opportunities
+Dashboard Features
+Interactive visualizations with filters showing:
 
-KPIs
-Total Employees
-Attrition Count
-Attrition Rate
-Average Monthly Income
-Employee Distribution by Department
-Employee Distribution by Job Role
-Gender Distribution
-Employee Experience
-
-Process
-Collected and explored the employee dataset.
-Cleaned and prepared the data for analysis.
-Connected the dataset to Tableau.
-Created calculated fields for Attrition Rate and other KPIs.
-Designed interactive visualizations including:
-Department-wise employee count
-Job role-wise employee distribution
+Department and job role employee counts
 Attrition analysis
-Gender parity
-Average monthly income by department
-Employee experience analysis
-Added filters and interactive dashboard elements for better user experience.
-
-Project Insights
-Research & Development has the highest employee count, followed by Sales, while Human Resources has the smallest workforce.
-Laboratory Technicians and Sales Executives have the highest employee attrition, indicating potential retention challenges.
-Research Scientists and Laboratory Technicians make up the largest share of employees.
-Senior leadership roles such as Managers and Research Directors show relatively low attrition.
-Average monthly income differs across departments, highlighting compensation variations.
-Gender distribution can be analyzed across departments and job roles to support diversity initiatives.
-Employee experience varies by department, helping identify teams that may benefit from training or succession planning.
-
-Final Conclusion
-
-This Employee Overview Dashboard provides a comprehensive view of the organization's workforce. It helps HR teams identify high attrition roles, understand workforce demographics, monitor compensation trends, and evaluate employee experience. The dashboard supports data-driven decision-making for improving employee retention, workforce planning, and overall organizational performance.
+Gender distribution
+Income patterns
+Experience levels
+Purpose: Help HR teams identify retention challenges, monitor demographics, and support strategic workforce planning.
