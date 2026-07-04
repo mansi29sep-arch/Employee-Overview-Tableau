@@ -1,7 +1,8 @@
 # Employee-Overview-Tableau
 The objective of this project is to analyze employee workforce data to understand workforce distribution, employee attrition, salary patterns, gender diversity, and employee experience across different departments and job roles. The dashboard enables HR professionals and business leaders to make data-driven decisions for improving employee retention and workforce planning.
 
-Data Used: Employee demographic data
+Data Used: 
+Employee demographic data
 Department information
 Job roles
 Gender
